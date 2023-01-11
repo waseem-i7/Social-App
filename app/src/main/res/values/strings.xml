@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social App</string>
+    <string name="logout">Logout</string>
+    <string name="logout_desc">Are You Sure?</string>
+</resources>
